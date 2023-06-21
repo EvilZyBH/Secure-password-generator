@@ -2,3 +2,4 @@ pyfiglet
 tqdm
 termcolor
 colorama
+pygame
