@@ -1,0 +1,4 @@
+pyfiglet
+tqdm
+termcolor
+colorama
