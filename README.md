@@ -10,3 +10,11 @@ cd Secure-password-generator
 pip install -r requerimientos.txt
 
 python Generador.py
+
+# Module pygame installation
+
+python -m venv path/to/venv
+
+source path/to/venv/bin/activate
+
+pip install -r requerimientos.txt
